@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi! I'm Praba 👋🏼
+
+ If you are reading this means you are looking me up! Thanks for that. Let me give you quick info on myself. I'm a Frontend Engineer @ <a href="https://www.freshworks.com/">Freshworks</a>. I am a Javascript defender in an argument and I believe in **Atwood's law**
+
+**`"Any application that can be written in Javascript will eventually be written in Javascript"`**
+
 
 <!--
 **prabakaranfresh/prabakaranfresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
