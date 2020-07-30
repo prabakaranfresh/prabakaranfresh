@@ -1,4 +1,4 @@
-### Hi! I'm Praba 👋🏼
+### Hi, I'm Praba! 👋🏼
 
  If you are reading this means you are looking me up! Thanks for that. Let me give you quick info on myself. I'm a Frontend Engineer @ <a href="https://www.freshworks.com/">Freshworks</a>. I am a Javascript defender in an argument and I believe in **Atwood's law**
 
