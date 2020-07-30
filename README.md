@@ -4,7 +4,7 @@
 
  If you are reading this means you are looking me up! Thanks for that. Let me give you quick info on myself. I'm a Frontend Engineer @ <a href="https://www.freshworks.com/" target="_blank">Freshworks</a>. I started my career as Hybrid Mobile App developer, then became an UX Enthusiast. A believer of **Atwood's law** - 
  
- **`"Any application that can be written in Javascript will eventually be written in Javascript"`**
+ **"Any application that can be written in Javascript will eventually be written in Javascript"**
 
 ---
 
