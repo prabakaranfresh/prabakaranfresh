@@ -9,7 +9,7 @@
 ---
 
   🎯 &nbsp;&nbsp; Recently Interested in Web Accessibility <br/>
-  🎉 &nbsp;&nbsp; Enjoy developing web using React
+  🎉 &nbsp;&nbsp; Enjoy developing web
 
 ---
 
